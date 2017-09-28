@@ -1,11 +1,13 @@
 # ShowTrackr
 
-Install all dependencies in package.json file. This can be done by navigating to the root directory in the command prompt/terminal/console (I will refer to it as command prompt) and running the following command:
+Install all dependencies of package.json. Navigate to the root directory in the command prompt/terminal and run following command:
 
 -> npm install
 
--> gulp
+Open Command prompt, run mongod (Launch MongoDB server)
 
--> Open Command prompt, run mongod (Launch MongoDB server)
+In the terminal/command prompt run following commands : 
+
+-> gulp
 
 -> nodemon server.js
