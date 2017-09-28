@@ -1,6 +1,6 @@
 # ShowTrackr
 
--> cd showtrackr && npm install
+-> npm install
 
 -> gulp
 
